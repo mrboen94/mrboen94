@@ -1,4 +1,5 @@
 ### Hello, World! 👋
+![Mathias Bøes github stats](https://github-readme-stats.vercel.app/api?username=mrboen94&show_icons=true&theme=synthwave)
 
 My name is Mathias, take a look around and dont be afraid to ask any questions. 
 
