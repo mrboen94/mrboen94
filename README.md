@@ -6,7 +6,7 @@ I am a master student at UiB, my master is within the field of data/computer vis
 
 Challenges are everything in life, but I am a firm believer than humanity would never have gotten to where it is if we weren't such a lazy species. Imagine the first person who got so tired of digging in the dirt that he invented the excavator? It's amazing the effort humans will go through just to make something easier. That is also where my passion in programming lies, it doesn't matter if it's hard as long as it makes life easier and/or better for someone.
 
-- 🔭 I’m currently working mostly on [lesesalen](www.github.com/mrboen94/lesesalen)
+- 🔭 I’m currently working mostly on [lesesalen](www.github.com/lesesalen/lesesalen)
 - 🌱 I’m slowly but surely getting into typescript as it adds more structure to my projects.
 - 👯 I’m looking to collaborate on my dance moves, I seriously need to improve them.
 - 💬 Ask me about my favourite beer!
